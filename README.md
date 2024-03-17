@@ -21,4 +21,4 @@ I also like bouldering!
 ### Contacts ~~~~~
 ► [LinkedIn](https://www.linkedin.com/in/simon-gardier/)<br>
 ► [Email](mailto:s.gardier@student.uliege.be)<br>
-► [Github](https://github.com/sgardier)
+► [Github](https://github.com/simon-gardier)
