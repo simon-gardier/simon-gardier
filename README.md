@@ -18,7 +18,7 @@ My interests are in game development, computer graphics and low level programmin
 On my free time Im a student instructor for the introductory course to Python ([INFO2056](https://www.programmes.uliege.be/cocoon/20232024/cours/INFO2056-1.html)) at ULiège and I work in the team directed by [Pr. Boigelot](https://people.montefiore.uliege.be/boigelot/index-fr.html) on the [Robocup competition](https://www.robocup.org/).<br>
 I also like bouldering!
 
-My last project : [A dance dance revolution game written in assembly on a PIC16F with only 2KB of Ram !](https://github.com/simon-gardier/dance-dance-revolution-assembly). (We also built our own dance pad !)
+My last project : [A dance dance revolution game written in assembly on a PIC16F with only 2KB of Ram!](https://github.com/simon-gardier/dance-dance-revolution-assembly) (We also built our own dance pad!)
 
 ### Contacts ~~~~~
 ► [LinkedIn](https://www.linkedin.com/in/simon-gardier/)<br>
