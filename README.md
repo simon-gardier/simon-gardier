@@ -19,7 +19,7 @@ On my free time Im a student instructor for the introductory course to Python ([
 I also like bouldering!
 
 ### ~~~~~ Last project
-► [A dance dance revolution game written in assembly on a PIC16F with only 2KB of Ram!](https://github.com/simon-gardier/dance-dance-revolution-assembly) (We also built our own dance pad!)
+► [Dance dance revolution game written in assembly on a PIC16F with 2KB of Ram](https://github.com/simon-gardier/dance-dance-revolution-assembly) (We also built our own dance pad)
 
 ### ~~~~~ Contacts 
 ► [LinkedIn](https://www.linkedin.com/in/simon-gardier/)<br>
