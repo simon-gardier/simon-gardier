@@ -18,7 +18,7 @@ On my free time I code in the team directed by [Pr. Boigelot](https://people.mon
 I also like bouldering.
 
 ### ~~~~~ Last project
-► [Dance dance revolution game written in assembly on a PIC16F with 2KB of Ram](https://github.com/simon-gardier/dance-dance-revolution-assembly) (We also built our own dance pad)
+► [Dance dance revolution game written in assembly on a PIC16F with 2KB of Ram and homemade dance pad](https://github.com/simon-gardier/dance-dance-revolution-assembly)
 
 ### ~~~~~ Contacts 
 ► [LinkedIn](https://www.linkedin.com/in/simon-gardier/)<br>
