@@ -20,6 +20,9 @@ I also like bouldering.
 ### ~~~~~ Last project
 ► [Chess game analyzer using computer vision techniques](https://github.com/simon-gardier/chess-cv)
 
+### ~~~~~ My linux dotfiles
+► [dotfiles](https://github.com/simon-gardier/dotfiles)
+
 ### ~~~~~ Contacts 
 ► [LinkedIn](https://www.linkedin.com/in/simon-gardier/)<br>
 ► [Email](mailto:s.gardier@student.uliege.be)<br>
