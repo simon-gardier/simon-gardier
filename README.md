@@ -17,7 +17,7 @@ My interests are in anything related to computer sciences but more specifically 
 On my free time I code in the team directed by [Pr. Boigelot](https://people.montefiore.uliege.be/boigelot/index-fr.html) on the [Robocup competition](https://www.robocup.org/).<br>
 I also like bouldering.
 
-### ~~~~~ Last project
+### ~~~~~ Latest project
 ► [Chess game analyzer using computer vision techniques](https://github.com/simon-gardier/chess-cv)
 
 ### ~~~~~ My linux dotfiles
