@@ -13,7 +13,7 @@
 ### ~~~~~ About me 
 Hello! ヽ(・∀・)ﾉ<br>
 Im a Belgian student in computer sciences at the [University of Liège](https://www.uliege.be/cms/c_8699436/fr/uliege).<br>
-My interests are in game development, computer graphics and low level programming.<br>
+My interests are in anything related to computer sciences but more specifically robotics, machine learning and low level programming.<br>
 On my free time I code in the team directed by [Pr. Boigelot](https://people.montefiore.uliege.be/boigelot/index-fr.html) on the [Robocup competition](https://www.robocup.org/).<br>
 I also like bouldering.
 
