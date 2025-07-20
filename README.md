@@ -19,8 +19,11 @@ I also like bouldering.
 
 ### ~~~~~ Latest projects
 ► [Pizza deliverry software using ROS2 on the Turtlebot 3 plateform](https://github.com/simon-gardier/pizza-delivery-robot)
+
 ► Self hosting of cloud and similar services on a Raspberry Pi 5
+
 ► [Chess game analyzer using computer vision techniques](https://github.com/simon-gardier/chess-cv)
+
 [See my other repositories...](https://github.com/simon-gardier?tab=repositories)
 
 ### ~~~~~ My favorite project
