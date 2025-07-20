@@ -18,13 +18,12 @@ On my free time I code in the team directed by [Pr. Boigelot](https://people.mon
 I also like bouldering.
 
 ### ~~~~~ Latest projects
-► [Pizza deliverry software using ROS2 on the Turtlebot 3 plateform](https://github.com/simon-gardier/pizza-delivery-robot)
+- [YOLOv5 from Scratch!](https://github.com/simon-gardier/yolo-v5-m-implementation)
+- [Pizza deliverry software using ROS2 on the Turtlebot 3 plateform](https://github.com/simon-gardier/pizza-delivery-robot)
+- Self hosting of cloud and similar services on a Raspberry Pi 5
+- [Chess game analyzer using computer vision techniques](https://github.com/simon-gardier/chess-cv)
 
-► Self hosting of cloud and similar services on a Raspberry Pi 5
-
-► [Chess game analyzer using computer vision techniques](https://github.com/simon-gardier/chess-cv)
-
-[See my other repositories...](https://github.com/simon-gardier?tab=repositories)
+...See my [other repositories](https://github.com/simon-gardier?tab=repositories)
 
 ### ~~~~~ My favorite project
 ► [A Dance dance revolution game in Assembly with Custom Hardware](https://github.com/simon-gardier/dance-dance-revolution-assembly)
