@@ -17,8 +17,14 @@ My interests are in anything related to computer sciences but more specifically 
 On my free time I code in the team directed by [Pr. Boigelot](https://people.montefiore.uliege.be/boigelot/index-fr.html) on the [Robocup competition](https://www.robocup.org/).<br>
 I also like bouldering.
 
-### ~~~~~ Latest project
+### ~~~~~ Latest projects
+► [Pizza deliverry software using ROS2 on the Turtlebot 3 plateform](https://github.com/simon-gardier/pizza-delivery-robot)
+► Self hosting of cloud and similar services on a Raspberry Pi 5
 ► [Chess game analyzer using computer vision techniques](https://github.com/simon-gardier/chess-cv)
+[See my other repositories...](https://github.com/simon-gardier?tab=repositories)
+
+### ~~~~~ My favorite project
+► [A Dance dance revolution game in Assembly with Custom Hardware](https://github.com/simon-gardier/dance-dance-revolution-assembly)
 
 ### ~~~~~ My linux dotfiles
 ► [Arch/Hyprland dotfiles](https://github.com/simon-gardier/dotfiles)
