@@ -18,7 +18,7 @@ In my free time, I code for the team directed by [Pr. Boigelot](https://people.m
 I also like bouldering.
 
 ### ~~~~~ My Linux dotfiles
-► [Arch/Hyprland dotfiles](https://github.com/simon-gardier/dotfiles)
+► [Arch/Hyprland/Fedora/Ubuntu dotfiles](https://github.com/simon-gardier/dotfiles)
 
 ### ~~~~~ My favourite project
 ► [A Dance Dance Revolution game in Assembly with Custom Hardware](https://github.com/simon-gardier/dance-dance-revolution-assembly)
