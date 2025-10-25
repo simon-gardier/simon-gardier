@@ -13,7 +13,7 @@
 ### ~~~~~ About me 
 Hello! ヽ(・∀・)ﾉ<br>
 I'm a Belgian student in computer sciences at the [University of Liège](https://www.uliege.be/cms/c_8699436/fr/uliege).<br>
-My interests are in anything related to computer science, more specifically, Deep learning for Computer Vision, Robotics, Cloud technologies and Low-Level Embedded Software.<br>
+My interests are in anything related to computer science, more specifically, Deep learning for Computer Vision, Robotics, Cloud/Web technologies, and Low-Level Embedded Software.<br>
 In my free time, I code for the team directed by [Pr. Boigelot](https://people.montefiore.uliege.be/boigelot/index-fr.html) on the [Robocup competition](https://www.robocup.org/).<br>
 I also like bouldering.
 
