@@ -12,10 +12,10 @@
 ```
 ### ~~~~~ About me 
 Hello! ヽ(・∀・)ﾉ<br>
-I'm a Belgian student in computer sciences at the [University of Liège](https://www.uliege.be/cms/c_8699436/fr/uliege).<br>
-My interests are in anything related to computer science, more specifically, Deep learning for Computer Vision, Robotics, Cloud/Web technologies, and Low-Level Embedded Software.<br>
+I'm a Belgian computer scientist and programmer, soon-to-be Master’s graduate in Computer Science from the [University of Liège](https://www.uliege.be/cms/c_8699436/fr/uliege) (Class of 2026).<br>
+My interests are in anything related to computer science, more specifically, Deep learning, Computer Vision, Robotics, Cloud/Web technologies, and Low-Level Embedded Software.<br>
 In my free time, I code for the team directed by [Pr. Boigelot](https://people.montefiore.uliege.be/boigelot/index-fr.html) on the [Robocup competition](https://www.robocup.org/).<br>
-I also like bouldering.
+I also like bouldering and rowing.
 
 ### ~~~~~ My Linux dotfiles
 ► [Arch/Hyprland/Fedora/Ubuntu dotfiles](https://github.com/simon-gardier/dotfiles)
@@ -24,6 +24,8 @@ I also like bouldering.
 ► [A Dance Dance Revolution game in Assembly with Custom Hardware](https://github.com/simon-gardier/dance-dance-revolution-assembly)
 
 ### ~~~~~ Latest projects
+- Master's Thesis on Feed-Forward Novel View Synthesis For Soccer Scenes With Priors (link soon)
+- [MonteMaps: Google Maps but for your indoor environments! Real-time on laptop :)](https://github.com/simon-gardier/monte-maps/)
 - [Bootloader for a Cortex M4 with updates over CAN bus](https://github.com/simon-gardier/bootloader-cortex-m4/tree/main)
 - [YOLOv5 from Scratch!](https://github.com/simon-gardier/yolo-v5-m-implementation)
 - [Pizza deliverry software using ROS2 on the Turtlebot 3 plateform](https://github.com/simon-gardier/pizza-delivery-robot)
