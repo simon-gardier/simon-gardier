@@ -26,6 +26,7 @@ I also like bouldering and rowing.
 ### ~~~~~ Latest projects
 - Master's Thesis on Feed-Forward Novel View Synthesis For Soccer Scenes With Priors (link soon)
 - [MonteMaps: Google Maps but for your indoor environments! Real-time on laptop :)](https://github.com/simon-gardier/monte-maps/)
+- [MineTexture: Diffusion for Minecraft textures generation, hosted on Google Cloud](https://github.com/Maicchi/INFO9023-MineTexture)
 - [Bootloader for a Cortex M4 with updates over CAN bus](https://github.com/simon-gardier/bootloader-cortex-m4/tree/main)
 - [YOLOv5 from Scratch!](https://github.com/simon-gardier/yolo-v5-m-implementation)
 - [Pizza deliverry software using ROS2 on the Turtlebot 3 plateform](https://github.com/simon-gardier/pizza-delivery-robot)
