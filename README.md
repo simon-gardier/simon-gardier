@@ -17,6 +17,10 @@ My interests are in anything related to computer science, more specifically, Dee
 In my free time, I code for the team directed by [Pr. Boigelot](https://people.montefiore.uliege.be/boigelot/index-fr.html) on the [Robocup competition](https://www.robocup.org/).<br>
 I also like bouldering and rowing.
 
+### ~~~~~ My personal website
+► [Portfolio built with Astro and SolidJS](https://github.com/simon-gardier/portfolio)
+
+
 ### ~~~~~ My Linux dotfiles
 ► [Arch/Hyprland/Fedora/Ubuntu dotfiles](https://github.com/simon-gardier/dotfiles)
 
