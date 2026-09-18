@@ -12,7 +12,7 @@
 ```
 ### ~~~~~ About me 
 Hello! ヽ(・∀・)ﾉ<br>
-I'm a Belgian computer scientist and programmer, soon-to-be Master’s graduate in Computer Science from the [University of Liège](https://www.uliege.be/cms/c_8699436/fr/uliege) (Class of 2026).<br>
+I'm a Belgian computer scientist with a Master’s degree in Computer Science from the [University of Liège](https://www.uliege.be/cms/c_8699436/fr/uliege) (Class of 2026).<br>
 My interests are in anything related to computer science, more specifically, Deep learning, Computer Vision, Robotics, Cloud/Web technologies, and Low-Level Embedded Software.<br>
 In my free time, I code for the team directed by [Pr. Boigelot](https://people.montefiore.uliege.be/boigelot/index-fr.html) on the [Robocup competition](https://www.robocup.org/).<br>
 I also like bouldering and rowing.
